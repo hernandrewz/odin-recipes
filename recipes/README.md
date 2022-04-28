@@ -1,0 +1,3 @@
+# odin-recipes
+Project: Recipes
+The project is to create a recipe website. This will require HTML. There is a an emphasis on list creation, so the order list<ol> tag and unordered <ul> list tag see heavy use. Also image linking, page relative page links and heading are practiced as well. This assigment was simple, but a little repetitive and I did have to be detailed oriented to capture small mistakes that would disrupt image links and list and heading formats.  
